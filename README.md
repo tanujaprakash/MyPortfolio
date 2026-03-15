@@ -1,6 +1,6 @@
 # MyPortfolio
 
-A modern, responsive portfolio website built with **React + Vite**, designed with a cybersecurity and software development inspired theme.
+A modern, responsive portfolio website built with **React + Vite**.
 
 ---
 
