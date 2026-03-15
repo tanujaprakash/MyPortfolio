@@ -1,4 +1,35 @@
-# React + Vite
+# MyPortfolio
+
+A modern, responsive portfolio website built with **React + Vite**, designed with a cybersecurity and software development inspired theme.
+
+---
+
+## 🌐 Live Demo
+
+- **Vercel:** [View Live](tanujagpportfolio.vercel.app)
+- **Netlify:** [View Live](tanujagpportfolio.netlify.app)
+
+## 🛠️ Tech Stack
+
+- **React**
+- **Vite**
+- **JavaScript (JSX)**
+- **CSS3**
+---
+
+## 📂 Project Structure
+
+```bash
+my-portfolio/
+├── public/
+│   └── resume.pdf
+├── src/
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── package.json
+├── package-lock.json
+└── vite.config.js# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
